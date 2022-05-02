@@ -2,6 +2,7 @@
 int main()
 {
   int num;
+  printf("Enter a number: ");
   scanf("%d", &num);
   if (num % 2 == 0)
   {
@@ -9,6 +10,6 @@ int main()
   }
   else
   {
-    printf("Odd");
+    printf("Odd \n");
   }
 }
