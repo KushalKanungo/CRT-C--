@@ -1,0 +1,16 @@
+
+Three types of loops in
+1. For ---> 
+              for(initialization; condition; incre/decre){
+              body of loop;
+                          }
+2. While ----->
+                while(condition){
+                  body of loop
+
+                  incre/decre 
+                }
+3. Do While  ------> 
+                      do{
+                        body of loop;
+                      }while(condition);
