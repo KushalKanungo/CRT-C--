@@ -1,3 +1,5 @@
 *
 !*.c
+!*.txt
+!/Day_4
 !Makefile
