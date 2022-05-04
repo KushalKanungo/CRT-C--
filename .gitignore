@@ -2,4 +2,5 @@
 !*.c
 !*.txt
 !/Day_4
+!/Day_5
 !Makefile
