@@ -12,9 +12,9 @@ int main()
   PRINT // Multi line macro
 #define PI 2
       printf("%d \n", PI);
-  printf(" Max %d \n", MAX(2, 3));
-  printf("TIME %s \n", __TIME__);
-  printf("DATE %s \n", __DATE__);
-  printf("FILE %s \n", __FILE__);
+  printf(" Max %d \n", MAX(2, 3)); // Maro Function
+  printf("TIME %s \n", __TIME__);  // predefined Macro for time
+  printf("DATE %s \n", __DATE__);  // predefined Macro for Date
+  printf("FILE %s \n", __FILE__);  // predifined Macro for file namwe
   return 0;
 }
